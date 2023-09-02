@@ -69,6 +69,7 @@ button{
 @media screen and(max-width: 1600px){
    .form__textArea textarea{
        margin-top: 1rem;
+        border: 1px solid black;
    }
 }
 
