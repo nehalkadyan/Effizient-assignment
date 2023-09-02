@@ -50,7 +50,7 @@ input{
 .form__textArea>textarea{
     width: 100%;
     margin: 1rem 0rem;
-    padding: 0rem 0rem 3rem 1rem;
+    padding: 1rem 0rem 3rem 1rem;
 }
 
 button{
