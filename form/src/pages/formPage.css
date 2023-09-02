@@ -66,10 +66,10 @@ button{
     cursor: pointer;
 }
 
-@media screen and(max-width: 1600px){
+@media screen and (max-width: 1600px){
    .form__textArea textarea{
-       margin-top: 1rem;
-        border: 1px solid black;
+       margin-top: 2.5rem;
+       border: 1px solid black;
    }
 }
 
