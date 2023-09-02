@@ -24,7 +24,7 @@ const FormPage = () => {
     // send post request to backend
     axios.post("http://localhost:8000/register", user).then((resp) => {
       console.log(resp);
-      alert("Details Sent To Your Email Successfully",)
+      alert("Details Sent To Your Email Successfully")
 
       setEmail("");
     setFirstName("")
