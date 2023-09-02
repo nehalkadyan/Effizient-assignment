@@ -65,7 +65,7 @@ const sendUserDetails = async(user, email, verificationToken) => {
                 Last Name: ${user.lastName}
                 Company : ${user.company}
                 Job Title: ${user.jobTitle}
-                Text Area : ${user.textarea} `,
+                Text Area : ${user.textArea} `,
 
     }
 
